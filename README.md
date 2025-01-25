@@ -1,4 +1,8 @@
 # Driving Tank Game
+`Assets` klasörünün dosya boyutu büyük olduğu için GitHub'a dahil edilmedi. İndirmek için linke tıklayın:
+[Assets.zip'i İndir](https://drive.google.com/file/d/1F2w1FZNiD4yM5BNVDmWUIWIQgbNhL2EX/view?usp=sharing)
+
+
 **Projenin detaylı açıklaması aşağıdaki slaytta mevcuttur.**
 <hr/>
 
