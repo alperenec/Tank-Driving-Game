@@ -1,10 +1,16 @@
 # Driving Tank Game
+
+**If you want to play the game, [click to download the zip file.](https://drive.google.com/file/d/1_sqXYe_TNweFSMpt5EF_0taZLg2pharF/view?usp=sharing)**
+
+---
+
 `Assets` klasörünün dosya boyutu büyük olduğu için GitHub'a dahil edilmedi. İndirmek için linke tıklayın:
 [Assets.zip'i İndir](https://drive.google.com/file/d/1F2w1FZNiD4yM5BNVDmWUIWIQgbNhL2EX/view?usp=sharing)
 
-
 **Projenin detaylı açıklaması aşağıdaki slaytta mevcuttur.**
 <hr/>
+
+---
 
 ![image](https://github.com/user-attachments/assets/d0a1ad56-1403-420d-ba1f-c91bc792070e)
 ![image](https://github.com/user-attachments/assets/799b0ef6-4a19-45a3-adc2-c43373b74d23)
