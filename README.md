@@ -1,6 +1,6 @@
 # Driving Tank Game
 
-**If you want to play the game, [click to download the zip file.](https://drive.google.com/file/d/1_sqXYe_TNweFSMpt5EF_0taZLg2pharF/view?usp=sharing)**
+**Oyunu oynamak istersen, [exe dosyasını indirmek için tıkla.](https://drive.google.com/file/d/1_sqXYe_TNweFSMpt5EF_0taZLg2pharF/view?usp=sharing)**
 
 ---
 
